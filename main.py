@@ -5,3 +5,4 @@ def newond():
 
 def new():
     print('new')
+    print('hi')
